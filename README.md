@@ -1,2 +1,2 @@
 # ProjetoLogica
-Um projeto para estudar diversas logicas
+Um projeto do curso C# primeors passos: Lógica de ProgramaçãO e Algoritmos da Udemy
