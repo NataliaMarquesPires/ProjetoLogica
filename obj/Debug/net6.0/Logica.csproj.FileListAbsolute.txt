@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\bin\Debug\net6.0\Logica.exe
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\bin\Debug\net6.0\Logica.dll
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\bin\Debug\net6.0\Logica.pdb
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\Logica.dll
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\Logica.pdb
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+C:\Users\User\Desktop\nati\ProjetoLogica\Logica\obj\Debug\net6.0\ref\Logica.dll
